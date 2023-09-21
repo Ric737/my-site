@@ -20,7 +20,7 @@ import PropTypes from "prop-types";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/sloth.jpg";
+import image from "../images/Home.jpg";
 
 const imageAltText =
   "A Sloth hanging from a tree branch. Photo by Mathias P.R. Reding on Unsplash";
